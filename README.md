@@ -3,7 +3,7 @@
 Un flag a été chiffré avec une clé RSA, à vous de le retrouver.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Weak RSA](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-weak-rsa/)
 
